@@ -4,6 +4,7 @@
 This project simulates an advanced customer behavior analysis using an RL agent (Deep Q-Network) based on a comprehensive synthetic dataset covering multiple sectors (Retail, E-commerce, Banking, Telecom, Travel). The dataset (30,000+ records) is generated using research insights and inserted into a local MongoDB database.
 
 ## File Structure
+
 [AI_CUSTOMER_BEHAVIOR/
 │── data/
 │   └── customers.csv            # Generated synthetic customer records (30,000+)
@@ -19,6 +20,7 @@ This project simulates an advanced customer behavior analysis using an RL agent 
 │── requirements.txt             # Dependencies for the project
 │── config.yaml                  # Configuration file for settings (MongoDB URI, hyperparameters, etc.)
 └── README.md                    # Documentation and instructions
+
 
 
 ## Setup & Usage
