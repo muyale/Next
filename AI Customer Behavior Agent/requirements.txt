@@ -1,0 +1,6 @@
+pandas
+faker
+pymongo
+torch
+streamlit
+matplotlib
